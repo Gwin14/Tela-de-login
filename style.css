@@ -16,18 +16,18 @@ html, body{
 }
 
 body{
-    background-image: url(pexels-scott-webb-137612.jpg);
+    background-image: url(pexels-alex-tinca-16668475.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left center;
 }
 
 main{
-    background-color: rgba(240, 248, 255, 0.418);
+    background-color: rgba(240, 248, 255, 0.329);
     width: 50vw;
     margin: auto;
     height: 40vh;
-    backdrop-filter: blur(50px);
+    backdrop-filter: blur(20px);
     padding: 50px;
     border-radius: 20px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.308);
